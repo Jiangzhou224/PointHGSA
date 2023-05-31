@@ -1,0 +1,14 @@
+# ninja log v5
+1	7744	1682840500854021745	/home/jiangzhou/Desktop/code/point_transformer_pt/point-transformer/lib/pointops/build/temp.linux-x86_64-cpython-37/src/grouping/grouping_cuda.o	61e015fac2a796e0
+5	7964	1682840501074023004	/home/jiangzhou/Desktop/code/point_transformer_pt/point-transformer/lib/pointops/build/temp.linux-x86_64-cpython-37/src/subtraction/subtraction_cuda.o	a9baecb837066f96
+4	8386	1682840501498025429	/home/jiangzhou/Desktop/code/point_transformer_pt/point-transformer/lib/pointops/build/temp.linux-x86_64-cpython-37/src/sampling/sampling_cuda.o	3173eb55f172be47
+0	8506	1682840501618026115	/home/jiangzhou/Desktop/code/point_transformer_pt/point-transformer/lib/pointops/build/temp.linux-x86_64-cpython-37/src/aggregation/aggregation_cuda.o	32578a1652610be6
+2	8568	1682840501682026481	/home/jiangzhou/Desktop/code/point_transformer_pt/point-transformer/lib/pointops/build/temp.linux-x86_64-cpython-37/src/interpolation/interpolation_cuda.o	d8349066a8fe6912
+3	8592	1682840501706026618	/home/jiangzhou/Desktop/code/point_transformer_pt/point-transformer/lib/pointops/build/temp.linux-x86_64-cpython-37/src/knnquery/knnquery_cuda.o	3a5a9aee64bd1775
+3	21930	1682840515030102736	/home/jiangzhou/Desktop/code/point_transformer_pt/point-transformer/lib/pointops/build/temp.linux-x86_64-cpython-37/src/interpolation/interpolation_cuda_kernel.o	6cb21c25ded1406
+2	21938	1682840515046102827	/home/jiangzhou/Desktop/code/point_transformer_pt/point-transformer/lib/pointops/build/temp.linux-x86_64-cpython-37/src/grouping/grouping_cuda_kernel.o	72d9fb85e1eaf6a1
+1	22147	1682840515250103991	/home/jiangzhou/Desktop/code/point_transformer_pt/point-transformer/lib/pointops/build/temp.linux-x86_64-cpython-37/src/aggregation/aggregation_cuda_kernel.o	bbe6cf2205b17095
+5	22438	1682840515546105680	/home/jiangzhou/Desktop/code/point_transformer_pt/point-transformer/lib/pointops/build/temp.linux-x86_64-cpython-37/src/subtraction/subtraction_cuda_kernel.o	fc8208dc24303096
+4	22640	1682840515742106798	/home/jiangzhou/Desktop/code/point_transformer_pt/point-transformer/lib/pointops/build/temp.linux-x86_64-cpython-37/src/sampling/sampling_cuda_kernel.o	73b581c4e1c3d681
+3	22686	1682840515790107072	/home/jiangzhou/Desktop/code/point_transformer_pt/point-transformer/lib/pointops/build/temp.linux-x86_64-cpython-37/src/knnquery/knnquery_cuda_kernel.o	4bb6e10b123fd106
+4	25683	1682840518782124137	/home/jiangzhou/Desktop/code/point_transformer_pt/point-transformer/lib/pointops/build/temp.linux-x86_64-cpython-37/src/pointops_api.o	c338e2c69db44cb3
